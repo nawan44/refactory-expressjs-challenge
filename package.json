@@ -1,0 +1,22 @@
+{
+  "name": "refactory-expressjs-challenge",
+  "version": "1.0.0",
+  "description": "refactory challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nawan44/refactory-expressjs-challenge.git"
+  },
+  "author": "nawan44",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nawan44/refactory-expressjs-challenge/issues"
+  },
+  "homepage": "https://github.com/nawan44/refactory-expressjs-challenge#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
